@@ -1,5 +1,5 @@
 #include<iostream>
-//#include<conio.h>
+#include<conio.h>
 using namespace std;
 
 class time1{
@@ -40,7 +40,8 @@ int main(){
     cout<<"day="<<t4.day<<"\nhr="<<t4.hr<<"\nminute="<<t4.minute<<"\nsec="<<t4.sec<<endl;
     cout<<"how are u"<<endl;
     cout<<"hello world"<<endl;
+    cout<<"this is my first program in c++"<<endl;
     cout<<"hello world again"<<endl;
-    //getch();
+    getch();
     return 0;
 }
