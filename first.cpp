@@ -40,6 +40,7 @@ int main(){
     cout<<"day="<<t4.day<<"\nhr="<<t4.hr<<"\nminute="<<t4.minute<<"\nsec="<<t4.sec<<endl;
     cout<<"how are u"<<endl;
     cout<<"hello world"<<endl;
+    cout<<"hello world again"<<endl;
     //getch();
     return 0;
 }
