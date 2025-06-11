@@ -38,6 +38,7 @@ int main(){
     t4.display();
     cout<<"the value is "<<endl;
     cout<<"day="<<t4.day<<"\nhr="<<t4.hr<<"\nminute="<<t4.minute<<"\nsec="<<t4.sec<<endl;
+    cout<<"hello world"<<endl;
     //getch();
     return 0;
 }
