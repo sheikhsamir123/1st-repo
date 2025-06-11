@@ -39,6 +39,7 @@ int main(){
     cout<<"the value is "<<endl;
     cout<<"day="<<t4.day<<"\nhr="<<t4.hr<<"\nminute="<<t4.minute<<"\nsec="<<t4.sec<<endl;
     cout<<"hello world"<<endl;
+    cout<<"this is my first program in c++"<<endl;
     //getch();
     return 0;
 }
