@@ -3,7 +3,7 @@
 using namespace std;
 
 class time1{
-private:
+public:
 int sec, minute, hr, day;
 
 public:
@@ -37,6 +37,7 @@ int main(){
     t4 = t2*t3;
     t4.display();
     cout<<"the value is "<<endl;
+    cout<<"day="<<t4.day<<"\nhr="<<t4.hr<<"\nminute="<<t4.minute<<"\nsec="<<t4.sec<<endl;
     //getch();
     return 0;
 }
